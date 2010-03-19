@@ -1,4 +1,5 @@
-<? function txtprint($str)
+<?
+function txtprint($str)
 {
 	echo "Hello!";
 	if($str)
@@ -9,4 +10,3 @@
 txtprint(1);
 txtprint(0);
 ?>
->>>>>>> lastname
