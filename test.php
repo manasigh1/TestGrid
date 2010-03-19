@@ -1,1 +1,1 @@
-<? echo "its working atlast"; ?>
+<? echo "ok"; ?>
